@@ -1,0 +1,8 @@
+#!name=369出行去广告
+#!desc=移除369出行App开屏广告
+
+[URL Rewrite]
+^https?:\/\/api\.369cx\.cn\/v2\/Splash\/GetSplashAd - reject-dict
+
+[MITM]
+hostname = %APPEND% api.369cx.*
