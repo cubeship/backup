@@ -1,0 +1,331 @@
+{
+  "items" : [
+    {
+      "itemExt" : {
+        "filterType" : "search"
+      },
+      "style" : {
+        "padding" : [
+          0,
+          10,
+          0,
+          0
+        ],
+        "background" : {
+          "corners" : [
+            10,
+            10,
+            0,
+            0
+          ],
+          "colorKey" : "CommonCardBackground",
+          "type" : "color",
+          "color" : "#ffffff"
+        }
+      },
+      "items" : [
+        {
+          "itemExt" : {
+            "filterType" : "search"
+          },
+          "style" : {
+            "height" : 6
+          },
+          "type" : "span",
+          "category" : "cell"
+        },
+        {
+          "data" : {
+            "group" : [
+              {
+                "action_log" : {
+                  "uicode" : "10001344",
+                  "luicode" : "",
+                  "ext" : "seqid:173536183111600176131|srid:a85d97e30f33400cd6525be2fb5135b5|refresh_type:4|cate:1000|t:30|qtime:1735361831|nav:more|pos:1_11|c_type:30|page:1|type:|dgr:0|mod_src:s_finder",
+                  "act_code" : 554,
+                  "fid" : "102803_ctg1_1780_-_ctg1_1780",
+                  "lfid" : "",
+                  "act_type" : 1
+                },
+                "title_sub" : "微",
+                "icon" : "https://simg.s.weibo.com/20170302155053_img_search_drop_right.png",
+                "title_sub_color" : "1",
+                "is_more_info" : 1,
+                "scheme" : "sinaweibo://pageinfo?containerid=106003_-_type%3A25_-_filter_type%3Aband&show_cache_when_error=1&extparam=seat%3D1%26mi_cid%3D100103%26filter_type%3Drealtimehot%26c_type%3D30%26region_relas_conf%3D0%26position%3D%257B%2522name%2522%253A%2522%25E6%25B5%258E%25E5%258D%2597%2522%252C%2522objectid%2522%253A%25228008637010000000000%2522%257D%26cate%3D10103%26dgr%3D0%26pos%3D0_0%26lcate%3D1001%26display_time%3D1735361831%26pre_seqid%3D173536183111600176131"
+              },
+              {
+                "action_log" : {
+                  "uicode" : "10001344",
+                  "luicode" : "",
+                  "ext" : "seqid:173536183111600176131|srid:a85d97e30f33400cd6525be2fb5135b5|refresh_type:4|cate:1000|t:30|qtime:1735361831|nav:more|pos:1_11|c_type:30|page:1|type:|dgr:0|mod_src:s_finder",
+                  "act_code" : 554,
+                  "fid" : "102803_ctg1_1780_-_ctg1_1780",
+                  "lfid" : "",
+                  "act_type" : 1
+                },
+                "title_sub" : "博",
+                "icon" : "https://simg.s.weibo.com/20170302155053_img_search_drop_right.png",
+                "title_sub_color" : "1",
+                "is_more_info" : 1,
+                "scheme" : "sinaweibo://pageinfo?containerid=106003_-_type%3A25_-_filter_type%3Aband&show_cache_when_error=1&extparam=seat%3D1%26mi_cid%3D100103%26filter_type%3Drealtimehot%26c_type%3D30%26region_relas_conf%3D0%26position%3D%257B%2522name%2522%253A%2522%25E6%25B5%258E%25E5%258D%2597%2522%252C%2522objectid%2522%253A%25228008637010000000000%2522%257D%26cate%3D10103%26dgr%3D0%26pos%3D0_0%26lcate%3D1001%26display_time%3D1735361831%26pre_seqid%3D173536183111600176131"
+              },
+              {
+                "action_log" : {
+                  "uicode" : "10001344",
+                  "luicode" : "",
+                  "ext" : "seqid:173536183111600176131|srid:a85d97e30f33400cd6525be2fb5135b5|refresh_type:4|cate:1000|t:30|qtime:1735361831|nav:more|pos:1_11|c_type:30|page:1|type:|dgr:0|mod_src:s_finder",
+                  "act_code" : 554,
+                  "fid" : "102803_ctg1_1780_-_ctg1_1780",
+                  "lfid" : "",
+                  "act_type" : 1
+                },
+                "title_sub" : "今",
+                "icon" : "https://simg.s.weibo.com/20170302155053_img_search_drop_right.png",
+                "title_sub_color" : "1",
+                "is_more_info" : 1,
+                "scheme" : "sinaweibo://pageinfo?containerid=106003_-_type%3A25_-_filter_type%3Aband&show_cache_when_error=1&extparam=seat%3D1%26mi_cid%3D100103%26filter_type%3Drealtimehot%26c_type%3D30%26region_relas_conf%3D0%26position%3D%257B%2522name%2522%253A%2522%25E6%25B5%258E%25E5%258D%2597%2522%252C%2522objectid%2522%253A%25228008637010000000000%2522%257D%26cate%3D10103%26dgr%3D0%26pos%3D0_0%26lcate%3D1001%26display_time%3D1735361831%26pre_seqid%3D173536183111600176131"
+              },
+              {
+                "action_log" : {
+                  "uicode" : "10001344",
+                  "luicode" : "",
+                  "ext" : "seqid:173536183111600176131|srid:a85d97e30f33400cd6525be2fb5135b5|refresh_type:4|cate:1000|t:30|qtime:1735361831|nav:more|pos:1_11|c_type:30|page:1|type:|dgr:0|mod_src:s_finder",
+                  "act_code" : 554,
+                  "fid" : "102803_ctg1_1780_-_ctg1_1780",
+                  "lfid" : "",
+                  "act_type" : 1
+                },
+                "title_sub" : "天",
+                "icon" : "https://simg.s.weibo.com/20170302155053_img_search_drop_right.png",
+                "title_sub_color" : "1",
+                "is_more_info" : 1,
+                "scheme" : "sinaweibo://pageinfo?containerid=106003_-_type%3A25_-_filter_type%3Aband&show_cache_when_error=1&extparam=seat%3D1%26mi_cid%3D100103%26filter_type%3Drealtimehot%26c_type%3D30%26region_relas_conf%3D0%26position%3D%257B%2522name%2522%253A%2522%25E6%25B5%258E%25E5%258D%2597%2522%252C%2522objectid%2522%253A%25228008637010000000000%2522%257D%26cate%3D10103%26dgr%3D0%26pos%3D0_0%26lcate%3D1001%26display_time%3D1735361831%26pre_seqid%3D173536183111600176131"
+              },
+              {
+                "action_log" : {
+                  "uicode" : "10001344",
+                  "luicode" : "",
+                  "ext" : "seqid:173536183111600176131|srid:a85d97e30f33400cd6525be2fb5135b5|refresh_type:4|cate:1000|t:30|qtime:1735361831|nav:more|pos:1_11|c_type:30|page:1|type:|dgr:0|mod_src:s_finder",
+                  "act_code" : 554,
+                  "fid" : "102803_ctg1_1780_-_ctg1_1780",
+                  "lfid" : "",
+                  "act_type" : 1
+                },
+                "title_sub" : "倒",
+                "icon" : "https://simg.s.weibo.com/20170302155053_img_search_drop_right.png",
+                "title_sub_color" : "1",
+                "is_more_info" : 1,
+                "scheme" : "sinaweibo://pageinfo?containerid=106003_-_type%3A25_-_filter_type%3Aband&show_cache_when_error=1&extparam=seat%3D1%26mi_cid%3D100103%26filter_type%3Drealtimehot%26c_type%3D30%26region_relas_conf%3D0%26position%3D%257B%2522name%2522%253A%2522%25E6%25B5%258E%25E5%258D%2597%2522%252C%2522objectid%2522%253A%25228008637010000000000%2522%257D%26cate%3D10103%26dgr%3D0%26pos%3D0_0%26lcate%3D1001%26display_time%3D1735361831%26pre_seqid%3D173536183111600176131"
+              },
+              {
+                "action_log" : {
+                  "uicode" : "10001344",
+                  "luicode" : "",
+                  "ext" : "seqid:173536183111600176131|srid:a85d97e30f33400cd6525be2fb5135b5|refresh_type:4|cate:1000|t:30|qtime:1735361831|nav:more|pos:1_11|c_type:30|page:1|type:|dgr:0|mod_src:s_finder",
+                  "act_code" : 554,
+                  "fid" : "102803_ctg1_1780_-_ctg1_1780",
+                  "lfid" : "",
+                  "act_type" : 1
+                },
+                "title_sub" : "闭",
+                "icon" : "https://simg.s.weibo.com/20170302155053_img_search_drop_right.png",
+                "title_sub_color" : "1",
+                "is_more_info" : 1,
+                "scheme" : "sinaweibo://pageinfo?containerid=106003_-_type%3A25_-_filter_type%3Aband&show_cache_when_error=1&extparam=seat%3D1%26mi_cid%3D100103%26filter_type%3Drealtimehot%26c_type%3D30%26region_relas_conf%3D0%26position%3D%257B%2522name%2522%253A%2522%25E6%25B5%258E%25E5%258D%2597%2522%252C%2522objectid%2522%253A%25228008637010000000000%2522%257D%26cate%3D10103%26dgr%3D0%26pos%3D0_0%26lcate%3D1001%26display_time%3D1735361831%26pre_seqid%3D173536183111600176131"
+              },
+              {
+                "action_log" : {
+                  "uicode" : "10001344",
+                  "luicode" : "",
+                  "ext" : "seqid:173536183111600176131|srid:a85d97e30f33400cd6525be2fb5135b5|refresh_type:4|cate:1000|t:30|qtime:1735361831|nav:more|pos:1_11|c_type:30|page:1|type:|dgr:0|mod_src:s_finder",
+                  "act_code" : 554,
+                  "fid" : "102803_ctg1_1780_-_ctg1_1780",
+                  "lfid" : "",
+                  "act_type" : 1
+                },
+                "title_sub" : "了",
+                "icon" : "https://simg.s.weibo.com/20170302155053_img_search_drop_right.png",
+                "title_sub_color" : "1",
+                "is_more_info" : 1,
+                "scheme" : "sinaweibo://pageinfo?containerid=106003_-_type%3A25_-_filter_type%3Aband&show_cache_when_error=1&extparam=seat%3D1%26mi_cid%3D100103%26filter_type%3Drealtimehot%26c_type%3D30%26region_relas_conf%3D0%26position%3D%257B%2522name%2522%253A%2522%25E6%25B5%258E%25E5%258D%2597%2522%252C%2522objectid%2522%253A%25228008637010000000000%2522%257D%26cate%3D10103%26dgr%3D0%26pos%3D0_0%26lcate%3D1001%26display_time%3D1735361831%26pre_seqid%3D173536183111600176131"
+              },
+              {
+                "action_log" : {
+                  "uicode" : "10001344",
+                  "luicode" : "",
+                  "ext" : "seqid:173536183111600176131|srid:a85d97e30f33400cd6525be2fb5135b5|refresh_type:4|cate:1000|t:30|qtime:1735361831|nav:more|pos:1_11|c_type:30|page:1|type:|dgr:0|mod_src:s_finder",
+                  "act_code" : 554,
+                  "fid" : "102803_ctg1_1780_-_ctg1_1780",
+                  "lfid" : "",
+                  "act_type" : 1
+                },
+                "title_sub" : "吗",
+                "icon" : "https://simg.s.weibo.com/20170302155053_img_search_drop_right.png",
+                "title_sub_color" : "1",
+                "is_more_info" : 1,
+                "scheme" : "sinaweibo://pageinfo?containerid=106003_-_type%3A25_-_filter_type%3Aband&show_cache_when_error=1&extparam=seat%3D1%26mi_cid%3D100103%26filter_type%3Drealtimehot%26c_type%3D30%26region_relas_conf%3D0%26position%3D%257B%2522name%2522%253A%2522%25E6%25B5%258E%25E5%258D%2597%2522%252C%2522objectid%2522%253A%25228008637010000000000%2522%257D%26cate%3D10103%26dgr%3D0%26pos%3D0_0%26lcate%3D1001%26display_time%3D1735361831%26pre_seqid%3D173536183111600176131"
+              },
+              {
+                "action_log" : {
+                  "uicode" : "10001344",
+                  "luicode" : "",
+                  "ext" : "seqid:173536183111600176131|srid:a85d97e30f33400cd6525be2fb5135b5|refresh_type:4|cate:1000|t:30|qtime:1735361831|nav:more|pos:1_11|c_type:30|page:1|type:|dgr:0|mod_src:s_finder",
+                  "act_code" : 554,
+                  "fid" : "102803_ctg1_1780_-_ctg1_1780",
+                  "lfid" : "",
+                  "act_type" : 1
+                },
+                "title_sub" : "敬",
+                "icon" : "https://simg.s.weibo.com/20170302155053_img_search_drop_right.png",
+                "title_sub_color" : "1",
+                "is_more_info" : 1,
+                "scheme" : "sinaweibo://pageinfo?containerid=106003_-_type%3A25_-_filter_type%3Aband&show_cache_when_error=1&extparam=seat%3D1%26mi_cid%3D100103%26filter_type%3Drealtimehot%26c_type%3D30%26region_relas_conf%3D0%26position%3D%257B%2522name%2522%253A%2522%25E6%25B5%258E%25E5%258D%2597%2522%252C%2522objectid%2522%253A%25228008637010000000000%2522%257D%26cate%3D10103%26dgr%3D0%26pos%3D0_0%26lcate%3D1001%26display_time%3D1735361831%26pre_seqid%3D173536183111600176131"
+              },
+              {
+                "action_log" : {
+                  "uicode" : "10001344",
+                  "luicode" : "",
+                  "ext" : "seqid:173536183111600176131|srid:a85d97e30f33400cd6525be2fb5135b5|refresh_type:4|cate:1000|t:30|qtime:1735361831|nav:more|pos:1_11|c_type:30|page:1|type:|dgr:0|mod_src:s_finder",
+                  "act_code" : 554,
+                  "fid" : "102803_ctg1_1780_-_ctg1_1780",
+                  "lfid" : "",
+                  "act_type" : 1
+                },
+                "title_sub" : "请",
+                "icon" : "https://simg.s.weibo.com/20170302155053_img_search_drop_right.png",
+                "title_sub_color" : "1",
+                "is_more_info" : 1,
+                "scheme" : "sinaweibo://pageinfo?containerid=106003_-_type%3A25_-_filter_type%3Aband&show_cache_when_error=1&extparam=seat%3D1%26mi_cid%3D100103%26filter_type%3Drealtimehot%26c_type%3D30%26region_relas_conf%3D0%26position%3D%257B%2522name%2522%253A%2522%25E6%25B5%258E%25E5%258D%2597%2522%252C%2522objectid%2522%253A%25228008637010000000000%2522%257D%26cate%3D10103%26dgr%3D0%26pos%3D0_0%26lcate%3D1001%26display_time%3D1735361831%26pre_seqid%3D173536183111600176131"
+              },
+              {
+                "action_log" : {
+                  "uicode" : "10001344",
+                  "luicode" : "",
+                  "ext" : "seqid:173536183111600176131|srid:a85d97e30f33400cd6525be2fb5135b5|refresh_type:4|cate:1000|t:30|qtime:1735361831|nav:more|pos:1_11|c_type:30|page:1|type:|dgr:0|mod_src:s_finder",
+                  "act_code" : 554,
+                  "fid" : "102803_ctg1_1780_-_ctg1_1780",
+                  "lfid" : "",
+                  "act_type" : 1
+                },
+                "title_sub" : "期待",
+                "icon" : "https://simg.s.weibo.com/20170302155053_img_search_drop_right.png",
+                "title_sub_color" : "1",
+                "is_more_info" : 1,
+                "scheme" : "sinaweibo://pageinfo?containerid=106003_-_type%3A25_-_filter_type%3Aband&show_cache_when_error=1&extparam=seat%3D1%26mi_cid%3D100103%26filter_type%3Drealtimehot%26c_type%3D30%26region_relas_conf%3D0%26position%3D%257B%2522name%2522%253A%2522%25E6%25B5%258E%25E5%258D%2597%2522%252C%2522objectid%2522%253A%25228008637010000000000%2522%257D%26cate%3D10103%26dgr%3D0%26pos%3D0_0%26lcate%3D1001%26display_time%3D1735361831%26pre_seqid%3D173536183111600176131"
+              },
+              {
+                "action_log" : {
+                  "uicode" : "10001344",
+                  "luicode" : "",
+                  "ext" : "seqid:173536183111600176131|srid:a85d97e30f33400cd6525be2fb5135b5|refresh_type:4|cate:1000|t:30|qtime:1735361831|nav:more|pos:1_11|c_type:30|page:1|type:|dgr:0|mod_src:s_finder",
+                  "act_code" : 554,
+                  "fid" : "102803_ctg1_1780_-_ctg1_1780",
+                  "lfid" : "",
+                  "act_type" : 1
+                },
+                "title_sub" : "查看热搜👉👉👉👉👉👉",
+                "icon" : "https://simg.s.weibo.com/20170302155053_img_search_drop_right.png",
+                "title_sub_color" : "1",
+                "is_more_info" : 1,
+                "scheme" : "sinaweibo://pageinfo?containerid=106003_-_type%3A25_-_filter_type%3Aband&show_cache_when_error=1&extparam=seat%3D1%26mi_cid%3D100103%26filter_type%3Drealtimehot%26c_type%3D30%26region_relas_conf%3D0%26position%3D%257B%2522name%2522%253A%2522%25E6%25B5%258E%25E5%258D%2597%2522%252C%2522objectid%2522%253A%25228008637010000000000%2522%257D%26cate%3D10103%26dgr%3D0%26pos%3D0_0%26lcate%3D1001%26display_time%3D1735361831%26pre_seqid%3D173536183111600176131"
+              }
+            ],
+            "card_type" : 17,
+            "top_padding" : 0,
+            "col" : 2,
+            "itemid" : "seqid:173536183111600176131|srid:a85d97e30f33400cd6525be2fb5135b5|cate_type:hotword|refresh_type:4|cate:1000|mod_src:s_finder|qtime:1735361831|t:30|c_type:30|page:1|type:|dgr:0"
+          },
+          "style" : {
+            "background" : {
+              "color" : "#ffffff",
+              "type" : "color",
+              "colorKey" : "CommonCardBackground"
+            }
+          },
+          "itemExt" : {
+            "filterType" : "search"
+          },
+          "category" : "card"
+        }
+      ],
+      "type" : "vertical",
+      "category" : "group"
+    },
+    {
+      "itemExt" : {
+        "filterType" : "search"
+      },
+      "style" : {
+        "background" : {
+          "color" : "#f0f0f0",
+          "type" : "color",
+          "colorKey" : "CommonBackground"
+        },
+        "height" : 10
+      },
+      "type" : "span",
+      "category" : "cell"
+    }
+  ],
+  "loadedInfo" : {
+    "is_bigDay" : 1,
+    "searchBarStyleInfo" : {
+      "height" : 36
+    },
+    "searchbar_exist_ad" : 0,
+    "searchBarContent" : [
+
+    ],
+    "theme" : {
+      "refreshBackType" : "light",
+      "loadmoreBackColorDark" : "#151515",
+      "loadmoreBackColor" : "#EEEEEE",
+      "md5" : "2374b2687ee73609d3030b3738a2c3dd"
+    },
+    "bigDayMax" : 0,
+    "immersive" : 1,
+    "headerBack" : {
+      "default" : {
+        "channelBarStyle" : {
+          "backgroundColor" : "#00000000",
+          "backgroundDarkColor" : "#00000000"
+        },
+        "searchBarStyle" : {
+          "searchBarTextColorDark" : "#888888",
+          "searchBarBackgroundColor" : "#F3F3F3",
+          "searchBarTextColor" : "#80333333",
+          "searchBarBackgroundColorDark" : "#343434"
+        },
+        "style" : {
+          "height" : 0,
+          "backgroundImageSize" : [
+            414,
+            436
+          ],
+          "contentInset" : [
+            0,
+            0,
+            0,
+            0
+          ],
+          "contentModel" : "scaleAspectTopFit",
+          "maskImageSize" : [
+            414,
+            110
+          ],
+          "backgroundColorDark" : "#151515",
+          "contentBottom" : "ToChannelBarBottom",
+          "backgroundColor" : "#EEEEEE"
+        }
+      },
+      "channelStyleMap" : {
+
+      },
+      "config" : {
+        "fixed" : 1,
+        "type" : "squareHeaderBack"
+      }
+    }
+  },
+  "type" : "replace"
+}
