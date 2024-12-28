@@ -1,0 +1,5 @@
+#禁止刷新
+hostname = api.weibo.*
+^https:\/\/api\.weibo\.cn\/2\/search\/finder url echo-response application/json echo-response https://github.com/cubeship/backup/raw/refs/heads/main/echo-response/weibo/finder.json
+^https:\/\/api\.weibo\.cn\/2\/search\/container_timeline url echo-response application/json echo-response https://github.com/cubeship/backup/raw/refs/heads/main/echo-response/weibo/container_timeline.json
+^https:\/\/api\.weibo\.cn\/2\/search\/container_discover url echo-response application/json echo-response https://github.com/cubeship/backup/raw/refs/heads/main/echo-response/weibo/container_discover.json
