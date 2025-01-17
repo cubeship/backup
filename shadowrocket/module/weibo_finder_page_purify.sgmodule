@@ -1,12 +1,12 @@
 #!name=微博发现页净化
 #!desc=禁止刷新
 
+[URL Rewrite]
+^https:\/\/api\.weibo\.cn\/2\/search\/container_timeline - reject-dict
+^https:\/\/api\.weibo\.cn\/2\/search\/container_discover - reject-dict
+
 [Script]
 finder = type=http-response, pattern=^https:\/\/api\.weibo\.cn\/2\/search\/finder, script-path=https://github.com/cubeship/backup/raw/refs/heads/main/script-path/weibo/finder.json, requires-body=true, max-size=-1, timeout=60
-
-container_timeline = type=http-response, pattern=^https:\/\/api\.weibo\.cn\/2\/search\/container_timeline, script-path= https://github.com/cubeship/backup/raw/refs/heads/main/script-path/weibo/container_timeline.json, requires-body=true, max-size=-1, timeout=60
-
-container_discover = type=http-response, pattern=^https:\/\/api\.weibo\.cn\/2\/search\/container_discover, script-path=https://github.com/cubeship/backup/raw/refs/heads/main/script-path/weibo/container_discover.json, requires-body=true, max-size=-1, timeout=60
 
 [MITM]
 hostname = %APPEND% api.weibo.*
