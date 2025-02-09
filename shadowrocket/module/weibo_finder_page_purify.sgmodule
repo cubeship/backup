@@ -4,6 +4,7 @@
 [URL Rewrite]
 ^https:\/\/api\.weibo\.cn\/2\/search\/container_timeline - reject-dict
 ^https:\/\/api\.weibo\.cn\/2\/search\/container_discover - reject-dict
+^https:\/\/api\.weibo\.cn\/2\/live\/media_homelist - reject-dict
 
 [Script]
 finder = type=http-response, pattern=^https:\/\/api\.weibo\.cn\/2\/search\/finder, script-path=https://github.com/cubeship/backup/raw/refs/heads/main/script-path/weibo/finder.json, requires-body=true, max-size=-1, timeout=60
